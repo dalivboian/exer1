@@ -1,2 +1,4 @@
 # exer1
-Exercício Sasaki
+# Exercício Sasaki
+# Faculdade Impacta
+# Gestão de Configuração e Mudanças
